@@ -1,4 +1,6 @@
 # EzyButton
+
+You can get EzyButton here: https://assetstore.unity.com/packages/slug/269683
 EzyButton Guide
 
 How to Use EzyButton:
